@@ -3,7 +3,8 @@
 https://blogs.sap.com/2019/10/12/abapturtle-make-something-pretty-in-abap-and-possibly-win-prizes/
 
 Rules:
-- Make your submission as a pull request to the this repository. 
+- Make your submission as a pull request to the this repository.
+- The pull request must contain the code used to make the picture, as well as a screenshot in the description.
 - You can make as many submissions as you want.
 - The competition will run until the end of October, after which all pull requests will be merged.
 - The pull request with the most positive emojis at the end of the competition wins.
