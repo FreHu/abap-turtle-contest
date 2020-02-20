@@ -2,9 +2,12 @@
 
 https://blogs.sap.com/2019/10/12/abapturtle-make-something-pretty-in-abap-and-possibly-win-prizes/
 
-## Contest over
+## Showcase
 
-There were no submissions. 
+![74923765-a33a5200-53d1-11ea-8f09-559382b7161e](https://user-images.githubusercontent.com/5097067/74956472-72284480-5406-11ea-9eef-b8481e561737.png)
+(g-back, age unknown)
+
+## Contest over
 
 ![image](https://user-images.githubusercontent.com/5097067/68007633-79bbb600-fc7c-11e9-8f61-7502ef30760b.png)
 
